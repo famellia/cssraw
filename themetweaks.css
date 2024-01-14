@@ -9,3 +9,7 @@
 #app-mount .layer_ec16dd [role="dialog"][aria-label="Inbox"]{
     backdrop-filter: blur(8px);
 }
+
+#app-mount .popout__08442.root_a28989 {
+  opacity: 0
+}
