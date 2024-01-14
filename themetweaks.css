@@ -1,0 +1,11 @@
+#app-mount .drawerSizingWrapper__30274{
+  position: absolute !important;
+}
+
+#app-mount .header__55964{
+  padding: 12px !important;
+}
+
+#app-mount .layer_ec16dd [role="dialog"][aria-label="Inbox"]{
+    backdrop-filter: blur(8px);
+}
