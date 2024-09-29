@@ -7,9 +7,17 @@
 }
 
 #app-mount .layer_ec16dd [role="dialog"][aria-label="Inbox"]{
-    backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
 }
 
 .avatarWrapper_b2ca13 {
   min-width: 95px;
+}
+
+.contentWrapper_af5dbb {
+  backdrop-filter: blur(30px);
+}
+
+.container_f1c3d9 {
+  backdrop-filter: blur(30px);
 }
