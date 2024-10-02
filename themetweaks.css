@@ -18,7 +18,7 @@
   backdrop-filter: blur(30px);
 }
 
-div[aria_label="Inbox"] {
+div[aria-label="Inbox"] {
   backdrop-filter: blur(30px);
 }
 
