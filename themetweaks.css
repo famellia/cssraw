@@ -21,3 +21,7 @@
 div[aria_label="Inbox"] {
   backdrop-filter: blur(30px);
 }
+
+.footer_aa1bff {
+    background: var(--bg-overlay-app-frame, black) !important;
+}
