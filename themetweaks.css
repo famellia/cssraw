@@ -23,5 +23,17 @@ div[aria-label="Inbox"] {
 }
 
 .footer_aa1bff {
-    background: var(--bg-overlay-app-frame, black) !important;
+  background: var(--bg-overlay-app-frame, black) !important;
+}
+
+.container_d746e5 {
+  background: rgb(0, 0, 0, var(--middle-brightness));
+}
+
+.container_e462a4 {
+  background: none
+}
+
+.headerBar_accde0 {
+  backdrop-filter: blur(25px);
 }
