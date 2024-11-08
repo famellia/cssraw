@@ -37,3 +37,7 @@ div[aria-label="Inbox"] {
 .headerBar_accde0 {
   backdrop-filter: blur(25px);
 }
+
+div[role="button"][aria-label="Dismiss"] {
+  margin-right: 7.5em;
+}
