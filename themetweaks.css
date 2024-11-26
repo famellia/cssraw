@@ -27,7 +27,7 @@ div[aria-label="Inbox"] {
 }
 
 .itemsContainer_fea3ef {
-    background: var(--bg-overlay-app-frame, --middle-brightness) !important;
+    background: var(--middle-brightness, black) !important;
 }
 
 .container_d746e5 {
