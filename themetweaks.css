@@ -23,10 +23,12 @@ div[aria-label="Inbox"] {
 }
 
 .itemsContainer_fea3ef {
-  background: #000000b8 !important;
+  background: #000000c6 !important;
 }
 
-
+#app-mount .guilds_a4d4d9 .scrollerBase_c49869 {
+    background-color: transparent !important;
+}
 
 .container_d746e5 {
   background: rgb(0, 0, 0, var(--middle-brightness));
