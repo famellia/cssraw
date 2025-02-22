@@ -48,7 +48,7 @@ div[role="button"][aria-label="Dismiss"] {
 
 .footer__214dc {
   bottom: 0;
-  background-color: none;
+  background-color: transparent !important;
   position: absolute;
 }
 
