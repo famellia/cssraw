@@ -45,3 +45,13 @@ div[aria-label="Inbox"] {
 div[role="button"][aria-label="Dismiss"] {
   margin-right: 7.5em;
 }
+
+.footer__214dc {
+  bottom: 0;
+  background-color: none;
+  position: absolute;
+}
+
+.scrollerBase_d125d2 {
+  height: 100%;
+}
